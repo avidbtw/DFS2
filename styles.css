@@ -1,0 +1,36 @@
+#dfs2{
+  
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .circle {
+    width: 200px; 
+    height: 200px; 
+    background-color: #ff0000;
+    border-radius: 50%;  
+    position: absolute; 
+    top: 50px; 
+    left: -30px; 
+  
+  }
+  
+  .body1{
+     padding: 2%;
+    position: absolute;
+    max-width: 45%;
+  }
+  
+  .body2{
+     padding: 2%;
+    position: absolute;
+    right: 0%;
+    max-width: 45%;
+  }
+  
+  spen{
+   
+    font-family: 'Roboto', sans-serif;
+    text-indent: 50px; 
+    hyphens: auto;
+  }
